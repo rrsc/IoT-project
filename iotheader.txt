@@ -1,0 +1,1 @@
+measurementTime	winddir	windspeedmph	windgustmph	windgustdir	windspdmph_avg2m	winddir_avg2m	windgustmph_10m	windgustdir_10m	humidity	tempf	dailyrainin	baromin	dewptf	batt_lvl	light_lvl	timestamp	target
