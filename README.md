@@ -1,7 +1,7 @@
 # IoT-project
 Predict IoT dataset from created classifiers
 
-## Python version and it's dependencies: 2.7.3
+## Python 2.7.13 and it's dependencies: 
   pandas: 0.22.0
   
   csv: 1.0
