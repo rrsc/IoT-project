@@ -2,6 +2,9 @@
 Predict IoT dataset from created classifiers
 
 ## Python 2.7.13 and it's dependencies: 
+  
+  Jupyter notebook: 4.2.1
+  
   pandas: 0.22.0
   
   csv: 1.0
